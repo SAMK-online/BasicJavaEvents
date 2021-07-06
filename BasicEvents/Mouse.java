@@ -1,3 +1,4 @@
+/*MouseEvents (Java MouseListener and MouseMotionListener)*/
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
